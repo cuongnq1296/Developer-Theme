@@ -2084,3 +2084,7 @@
 .fa-percent:before {
   content: "\f295";
 }
+.fa-hackerrank:before{
+  content: url('images/hackerrank2.png')
+}
+
