@@ -227,6 +227,9 @@ iframe {
   margin-bottom: 30px;
   color: #778492;
 }
+.subtitle {
+  text-align: center;
+}
 .latest .featured img {
   margin-bottom: 30px;
 }
